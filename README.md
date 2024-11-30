@@ -158,12 +158,13 @@ p.note { display: none; }
 <a href="20241129_026.JPG" target="_blank"><img src="20241129_026.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">Very stylish venue</span></h2>
-<a href="20241129_027.JPG" target="_blank"><img src="20241129_027.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20241129_028.JPG" target="_blank"><img src="20241129_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_029.JPG" target="_blank"><img src="20241129_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_030.JPG" target="_blank"><img src="20241129_030.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_031.JPG" target="_blank"><img src="20241129_031.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_032.JPG" target="_blank"><img src="20241129_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241129_027.JPG" target="_blank"><img src="20241129_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_033.JPG" target="_blank"><img src="20241129_033.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_034.JPG" target="_blank"><img src="20241129_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_035.JPG" target="_blank"><img src="20241129_035.JPG" alt="サンプル画像" width="900" /></a>
